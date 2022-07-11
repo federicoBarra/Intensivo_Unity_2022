@@ -1,0 +1,14 @@
+*.csproj
+*.sln
+Builds/
+Library/
+Temp/
+Logs/
+obj/
+*.vsconfig
+UserSettings/
+.vs/
+.vscode
+*.db
+*.db.meta
+Intensivo Unity 2022/Library/

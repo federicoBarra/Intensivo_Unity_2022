@@ -1,0 +1,15 @@
+Federico Barra
+1562667575
+
+Version de Unity
+LTS 2021.3.6f1
+
+Links para profundizar:
+FBX
+https://docs.unity3d.com/Manual/class-FBXImporter.html
+Materiales
+https://docs.unity3d.com/Manual/StandardShaderMaterialParameters.html
+https://docs.unity3d.com/Manual/StandardShaderMaterialCharts.html
+Texturas
+https://docs.unity3d.com/Manual/class-TextureImporter.html
+

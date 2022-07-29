@@ -1,1 +1,15 @@
+https://docs.unity3d.com/Manual/class-LightingSettings.html
+https://unity.com/products/speedtree
+https://radiumsoftware.tumblr.com/archive
+
+Orden de la clase:
+Dudas y demases
+Iluminacion
+	Bakeing
+Fog
+Particulas
+Wind
+Audio
+Physics
+Animations
 

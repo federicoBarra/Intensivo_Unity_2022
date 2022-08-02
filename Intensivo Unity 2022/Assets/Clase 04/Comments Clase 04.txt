@@ -2,3 +2,12 @@ https://www.youtube.com/watch?v=wFx0d9c8WMs&t=428s&ab_channel=VideoTechExplained
 https://www.youtube.com/watch?v=Nc_ZMgEFj-A&t=87s&ab_channel=Unity
 
 https://learn.unity.com/project/beginner-gameplay-scripting
+
+Pregunas de la clase anterior
+Definicion de lightmap por objeto
+	https://docs.unity3d.com/Manual/LightingGiUvs-GeneratingLightmappingUVs.html
+Ver duplicar GO en batch
+	https://twitter.com/kronnect/status/1523944836554010624
+
+Personajes 3D: rig y animaciones.
+	https://www.mixamo.com/
